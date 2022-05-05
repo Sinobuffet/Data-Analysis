@@ -32,5 +32,5 @@ Idea of machine learning is not complicated, it is just a simulation of human li
 2. [Numpy](https://numpy.org)
 3. [Scikit-Learn](https://scikit-learn.org)
 4. [Matplotlib](https://matplotlib.org)
-5. [Seaborn](https://seaborn.org)
+5. [Seaborn](https://seaborn.pydata.org)
 ----
