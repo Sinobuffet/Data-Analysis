@@ -1,1 +1,4 @@
-Definition: Given a dataset $D={(x1, y1), (x2, y2), ... }$ , we try to learn a linear model from this dataset that reflects$ x(i)$ and y as accurately as possible$ (i) $correspondence. The linear model here is the function of the linear combination of attributes$ (x)$, which can be expressed as:
+![](http://latex.codecogs.com/gif.latex?\\sigma=\sqrt{\frac{1}{n}{\sum_{k=1}^n(x_i-\bar{x})^2}})
+
+
+Definition: Given a dataset D={(x1, y1), (x2, y2), ... } , we try to learn a linear model from this dataset that reflects x(i) and y as accurately as possible (i) correspondence. The linear model here is the function of the linear combination of attributes (x), which can be expressed as:
