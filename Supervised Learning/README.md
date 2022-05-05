@@ -1,4 +1,4 @@
-### [***Supervised learning***](https://en.wikipedia.org/wiki/Supervised_learning#:~:text=Supervised%20learning%20(SL)%20is%20the,a%20set%20of%20training%20examples.)
+# [***Supervised learning***](https://en.wikipedia.org/wiki/Supervised_learning#:~:text=Supervised%20learning%20(SL)%20is%20the,a%20set%20of%20training%20examples.)
 
 ![image](https://user-images.githubusercontent.com/97000341/166858354-ef28a5cf-43f8-4796-8504-1954cef179ea.png)
 
