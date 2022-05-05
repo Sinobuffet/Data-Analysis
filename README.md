@@ -26,7 +26,7 @@ Idea of machine learning is not complicated, it is just a simulation of human li
 
 ## Libraries
 
-* This project will use python as the programming language and use the following libraries, if you are not familiar with it, you can read ahead.
+This project will use python as the programming language and use the following libraries, if you are not familiar with it, you can read ahead.
 
 1. [Pandas](https://pandas.pydata.org)
 2. [Numpy](https://numpy.org)
