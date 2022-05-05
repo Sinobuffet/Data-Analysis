@@ -1,4 +1,6 @@
-###  [***Unsupervised learning***](https://en.wikipedia.org/wiki/Unsupervised_learning#:~:text=Unsupervised%20learning%20is%20a%20type,generate%20imaginative%20content%20from%20it.)
+#  [***Unsupervised learning***](https://en.wikipedia.org/wiki/Unsupervised_learning#:~:text=Unsupervised%20learning%20is%20a%20type,generate%20imaginative%20content%20from%20it.)
+![image](https://user-images.githubusercontent.com/97000341/166858431-7d2323b2-b107-4ae5-aa2f-ffd8c6eeece1.png)
+
 > Unsupervised learning means that the data for machine learning is unlabeled. Machines explore and infer potential connections from unlabeled data.
 > 
 
