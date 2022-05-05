@@ -1,6 +1,5 @@
 # [***Supervised learning***](https://en.wikipedia.org/wiki/Supervised_learning#:~:text=Supervised%20learning%20(SL)%20is%20the,a%20set%20of%20training%20examples.)
-
-![image](https://user-images.githubusercontent.com/97000341/166858354-ef28a5cf-43f8-4796-8504-1954cef179ea.png)
+<img src="https://user-images.githubusercontent.com/97000341/166858354-ef28a5cf-43f8-4796-8504-1954cef179ea.png" width="500" ></img>
 
 > Supervised learning means that machine learning data is labeled, and these labels can include data categories, data attributes, and feature point locations. These markers serve as an expected effect, continually revising the machine's predictions.
 > 
