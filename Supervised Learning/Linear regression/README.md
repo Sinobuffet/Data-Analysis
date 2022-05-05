@@ -32,3 +32,26 @@ By achieving the best-fit regression line, the model aims to predict y value suc
 ![image](https://user-images.githubusercontent.com/97000341/166848403-4a501e17-76c9-42a6-a0b4-585df0ab14a9.png)
 
 Cost function(J) of Linear Regression is the Root Mean Squared Error (RMSE) between predicted y value (pred) and true y value (y).
+
+# Dataset
+---
+[Boston house price](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices) data was collected by Carnegie Mellon University, the StatLib library, 1978, covering housing data for 506 different suburbs in Boston, Massachusetts.
+A total of 506 pieces of data are included. Each piece of data has 14 fields, including 13 attributes, and an average price of house prices.
+
+|  feature names   | mean |
+| :-----| :----: |
+| crim  | crime rate per capita |
+| zn  | Residential land > 25,000 feet scale |
+| indus  | Proportion of non-retail commercial land |
+| chas  | Charles River null variable (region boundary is river, value is 1, otherwise 0) |
+| nox  | Nitric oxide concentration |
+| rm  | Average number of rooms per dwelling |
+| age  | Proportion of self-occupied houses built after 1940 |
+| dis  | Distance from central Boston |
+| rad  | Proximity index to major highways |
+| tax  | property tax rate |
+| ptratio  | teacher-student ratio |	
+| b  | color people ratio |	
+| lstat  | low-status population |	
+| medv  | Average owner-occupancy price, in thousands of dollars |	
+	
