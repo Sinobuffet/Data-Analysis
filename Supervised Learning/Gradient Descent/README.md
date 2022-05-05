@@ -41,3 +41,11 @@ The result of gradient descent method is
 
 where alpha is called the step size or learning rate, and represents the size of the change in each iteration update. It stops until the function value changes very little or when the maximum number of iterations is reached, at which point the function is considered to have reached a minimum point.
 
+# Dataset
+---
+[Auto MPG](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
+
+This dataset is a slightly modified version of the dataset provided in the StatLib library. In line with the use by Ross Quinlan (1993) in predicting the attribute "mpg", 8 of the original instances were removed because they had unknown values for the "mpg" attribute. The original dataset is available in the file "auto-mpg.data-original".
+
+The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 continuous attributes.
+
