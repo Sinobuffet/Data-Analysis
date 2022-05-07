@@ -40,4 +40,4 @@ Dataset
 The dataset uses the four column features of `mass`, `height`, `width`, and `color_score` for fruit classification
 
 
-The fruits dataset was created by Dr. Iain Murray from University of Edinburgh. He bought a few dozen `oranges`, `lemons` and `apples` of different varieties, and recorded their measurements in a table. And then the professors at University of Michigan formatted the fruits data slightly
+The fruits dataset was created by Dr. Iain Murray from University of Edinburgh. He bought a few dozen `oranges`,`mandarin`, `lemons` and `apples` of different varieties, and recorded their measurements in a table. And then the professors at University of Michigan formatted the fruits data slightly
