@@ -24,3 +24,9 @@ The support vector opportunity accepts these data points and outputs a hyperplan
 
 <img src="https://user-images.githubusercontent.com/97000341/167271106-619cc9ac-3e6c-4332-bd06-3dba6e7b5d34.png" width = "50%" />
 
+Dataset
+---
+
+
+
+
