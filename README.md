@@ -22,8 +22,6 @@ Idea of machine learning is not complicated, it is just a simulation of human li
 
 > The main difference between reinforcement learning and other learning methods is that during reinforcement learning training, feedback from the environment and corresponding specific feedback values are required. It is not a classification task, and it is not how to distinguish fraudulent customers from normal customers in a financial anti-fraud scenario. Reinforcement learning is mainly to guide the training object how to make decisions at each step, and what actions to take to accomplish a specific purpose or maximize benefits.
 
------
-
 ## Libraries
 
 This project will use python as the programming language and use the following libraries, if you are not familiar with it, you can read ahead.
@@ -33,4 +31,9 @@ This project will use python as the programming language and use the following l
 3. [Scikit-Learn](https://scikit-learn.org)
 4. [Matplotlib](https://matplotlib.org)
 5. [Seaborn](https://seaborn.pydata.org)
-----
+
+## Dataset
+
+The data of this project comes from open source databases, such as [kaggle](https://www.kaggle.com/) and [UCI](https://archive.ics.uci.edu/ml/index.php).
+
+
