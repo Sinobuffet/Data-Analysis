@@ -31,3 +31,13 @@ It can be seen from the results that k is an important parameter, and different 
 * According to the selected k, take out the first k sample points in the sorted list;
 * The category to which the first k sample points belong, and the frequency of occurrence of the category;
 * The category with the highest frequency is used as the prediction result of the current test sample point.
+
+
+Dataset
+---
+[Fruits with colors dataset](https://www.kaggle.com/datasets/mjamilmoughal/fruits-with-colors-dataset?resource=download)
+
+The dataset uses the four column features of mass, height, width, and color_score for fruit classification
+
+
+The fruits dataset was created by Dr. Iain Murray from University of Edinburgh. He bought a few dozen oranges, lemons and apples of different varieties, and recorded their measurements in a table. And then the professors at University of Michigan formatted the fruits data slightly
