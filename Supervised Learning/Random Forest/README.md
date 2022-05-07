@@ -30,3 +30,11 @@ When we carry out the classification task, new input samples enter, and each dec
 2. When each sample has M attributes, when each node of the decision tree needs to be split, m attributes are randomly selected from these M attributes, satisfying the condition m << M. Then a certain strategy (say information gain) is used from these m attributes to select 1 attribute as the splitting attribute of this node.
 3. In the process of decision tree formation, each node must be split according to step 2 (it is easy to understand that if the next attribute selected by the node is the attribute used when its parent node was split, the node has reached the leaf node, there is no need to continue to split). until it can no longer be divided. Note that no pruning is performed during the entire decision tree formation process.
 4. Follow steps 1 to 3 to build a large number of decision trees, which constitutes a random forest.
+
+Dataset
+---
+[California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
+
+Median house prices for California districts derived from the 1990 census.
+
+This data takes the block as the smallest unit, and the corresponding information includes: population, median income, median house price, etc.
