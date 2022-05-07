@@ -28,5 +28,13 @@ Dataset
 ---
 
 
+This dataset is a collection of JPEG pictures of famous people collected on the internet, all details are available on the [official website](http://vis-www.cs.umass.edu/lfw/):
+
+Each picture is centered on a single face. Each pixel of each channel (color in RGB) is encoded by a float in range 0.0 - 1.0.
+
+The task is called Face Recognition (or Identification): given the picture of a face, find the name of the person given a training set (gallery).
+
+The original images are 250 x 250 pixels, but the default slice and resize arguments reduce them to 62 x 74.
+
 
 
