@@ -27,3 +27,26 @@ Algorithm steps:
 3) If the data of each hidden category is unbalanced, for example, the amount of data of each hidden category is seriously unbalanced, or the variance of each hidden category is different, the clustering effect is not good.
 4) The final result is related to the selection of the initial point, and it is easy to fall into the local optimum.
 5) Sensitive to noise and outlier comparison.
+
+Dataset
+---
+
+We explore k-means using the [wine](http://archive.ics.uci.edu/ml/datasets/Wine) dataset
+
+These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
+
+|Attributes| 
+|---|
+|Alcohol
+|Malic acid
+Ash
+Alcalinity of ash
+Magnesium
+Total phenols
+Flavanoids
+Nonflavanoid phenols
+Proanthocyanins
+Color intensity
+Hue
+OD280/OD315 of diluted wines
+Proline
