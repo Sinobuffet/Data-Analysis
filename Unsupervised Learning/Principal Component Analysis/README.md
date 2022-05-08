@@ -35,3 +35,22 @@ Choose to keep all components or discard those less important (low eigenvalues) 
 
 Use the eigenvectors of the covariance matrix to form new eigenvectors, relocating the data from the original axes to the principal component axes (hence the name principal component analysis). This can be done by multiplying the transpose of the original dataset by the transpose of the feature vector.
 
+Dataset
+---
+I use PCA and logistic regression to predict whether an examiner has diabetes
+
+[Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set/metadata)
+
+This dataset is originally from the N. Inst. of Diabetes & Diges. & Kidney Dis.
+
+|Attribute |
+|---|
+|Pregnancies|
+Glucose	
+BloodPressure	
+SkinThickness	
+Insulin	
+BMI	
+DiabetesPedigreeFunction
+Age
+
