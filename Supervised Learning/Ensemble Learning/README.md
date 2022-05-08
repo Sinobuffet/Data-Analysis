@@ -39,3 +39,45 @@ This project will mainly study the usage of Adaboost
 * AdaBoost is used for short decision trees. After the first tree is created, the performance of the tree on each training instance is used to weight the attention of * each training instance for the next tree created. Hard-to-predict training data is given more weight, while easy-to-predict instances are given less weight. Models are created sequentially, one after the other, and each model updates weights on the training instance that affect the learning performed by the next tree in the sequence. After all trees are built, predictions are made on new data and the performance of each tree is weighted according to the accuracy of the training data.
 
 * Because the algorithm is so focused on correcting errors, clean data with outliers must be removed.
+
+Dataset
+---
+
+[Employee turnover rate analysis and forecast}(https://www.kaggle.com/competitions/rs6-attrition-predict/overview)
+
+This data set counts various statistical information of employees and whether the employee has left the company. The statistical information includes (salary, business trip, work environment satisfaction, work engagement, overtime work, promotion, salary increase ratio, etc.)
+
+|	feature | introduction |
+|---|---|
+|Age|	Employee age |
+|Attrition	|if turnover|
+BusinessTravel	|Travel frequency
+DailyRate	|Daily Pay
+Department	|Work location，Sales，Research & Development，Human Resources
+DistanceFromHome|1~29，1 near，29 far
+Education	| education level
+EducationField	| major
+EmployeeNumber| Employee Number
+EnvironmentSatisfaction |Employee satisfaction with the working environment
+Gender |	Male or Female
+JobInvolvement |	Employee job engagement
+JobLevel	| 1~5
+JobRole	| Position
+JobSatisfaction	| job satisfaction
+MaritalStatus |	Marital Status of Employees
+MonthlyIncome	| Monthly Pay
+NumCompaniesWorked| former employer
+Over18 |Whether Adult
+OverTime	|Whether work overtime
+PercentSalaryHike |	Percent of wages increase
+PerformanceRating	 | performance evaluation
+RelationshipSatisfaction |	Relationship satisfaction
+StandardHours	 | Standard working hours
+StockOptionLevel	 | Stock option level 
+TotalWorkingYears	 | The total length of service
+TrainingTimesLastYear | Training Times Last Year
+WorkLifeBalance	| Work-life balance degree
+YearsAtCompany | 	work years
+YearsInCurrentRole	|Number of work in current work responsibilities
+YearsSinceLastPromotion	|Time from the last promotion
+YearsWithCurrManager|Number of years with your current manager
