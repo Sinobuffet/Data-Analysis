@@ -31,10 +31,10 @@ This project will use python as the programming language and use the following l
 3. [Scikit-Learn](https://scikit-learn.org)
 4. [Matplotlib](https://matplotlib.org)
 5. [Seaborn](https://seaborn.pydata.org)
-6. [urllib](https://docs.python.org/3/library/urllib.html)
+6. [Urllib](https://docs.python.org/3/library/urllib.html)
 
 ## Dataset
 
-The data of this project comes from open source databases, such as [kaggle](https://www.kaggle.com/) and [UCI](https://archive.ics.uci.edu/ml/index.php).
+The data of this project comes from open source databases, such as [Kaggle](https://www.kaggle.com/) and [UCI](https://archive.ics.uci.edu/ml/index.php).
 
 
