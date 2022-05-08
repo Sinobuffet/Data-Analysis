@@ -35,7 +35,7 @@ Dataset
 ---
 [California Housing Prices](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
-***Please note: I am using the kaggle data set here instead of the data set that comes with Sklearn (INDE 577 used this one). They have different numbers of features***
+***Please note: I am using the kaggle data set here instead of the data set that comes with Sklearn (INDE 577 Lecture 8.2 used this one). They have different numbers of features***
 
 Median house prices for California districts derived from the 1990 census.
 
