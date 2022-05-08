@@ -43,9 +43,13 @@ This project will mainly study the usage of Adaboost
 Dataset
 ---
 
-[Employee turnover rate analysis and forecast}(https://www.kaggle.com/competitions/rs6-attrition-predict/overview)
+[Employee turnover rate analysis and forecast](https://www.kaggle.com/competitions/rs6-attrition-predict/overview)
+
 
 This data set counts various statistical information of employees and whether the employee has left the company. The statistical information includes (salary, business trip, work environment satisfaction, work engagement, overtime work, promotion, salary increase ratio, etc.)
+
+
+I will compare the accuracy of various algorithms
 
 |	feature | introduction |
 |---|---|
