@@ -1,7 +1,7 @@
 # INDE 577 — Data Science and Machine Learning
 ---
 Author: Zixi Wang
-## This project is an overview of machine learning and data analysis with explanation and code
+## This project is an overview of machine learning and data analysis with explanation and code##
 <img src="https://user-images.githubusercontent.com/97000341/166797757-13812595-b948-4f45-b7c1-6b6e9cd83e2f.jpeg#pic_center" width="500" ></img>
 
 Idea of machine learning is not complicated, it is just a simulation of human life and learning process. And in this whole process, the most critical thing is data. Any research on data-trained learning algorithms is machine learning, including many techniques that have been developed over the years, The most commonly used machine learning classification methods divide them into:
@@ -31,6 +31,7 @@ This project will use python as the programming language and use the following l
 3. [Scikit-Learn](https://scikit-learn.org)
 4. [Matplotlib](https://matplotlib.org)
 5. [Seaborn](https://seaborn.pydata.org)
+6. [urllib](https://docs.python.org/3/library/urllib.html)
 
 ## Dataset
 
