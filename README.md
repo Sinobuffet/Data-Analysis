@@ -1,4 +1,4 @@
-# INDE 577 — Data Science and Machine Learning
+# Data Science and Machine Learning
 ---
 Author: Zixi Wang
 ## This project is an overview of machine learning and data analysis with explanation and code ##
